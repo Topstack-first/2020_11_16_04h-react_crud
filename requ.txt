@@ -1,0 +1,18 @@
+https://mad9135.github.io/F2020/deliverables/p1.html#background
+A react app which will do simple CRUD operations like edit, add, delete
+
+Vue
+http://vuejs.io
+Evan You
+
+React
+http://react.io
+Facebook
+
+Angular
+http://angular.io
+Google
+
+Native Script
+https://www.nativescript.org/
+Progress
